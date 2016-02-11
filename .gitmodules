@@ -1,0 +1,3 @@
+[submodule "libraries/GifAnimation"]
+	path = libraries/GifAnimation
+	url = https://github.com/01010101/GifAnimation
