@@ -13,7 +13,7 @@ Installer la librairie GifAnimation (pour exporter en GIF) :
 
 Les paramètres sont en début de sketch
 
-```
+```Processing
 // paramètres
 boolean SHOW_DEBUG = false;
 boolean RECORD_GIF = true;
@@ -39,7 +39,7 @@ int PAPER_HEIGHT = 230*PAPER_SCALE; // hauteur de la double page, en pixel
 
 C’est la fonction qui est executée à chaque nouvelle itération.
 
-```
+```Processing
 void Next(){ 
     // 
     // c’est ici qu’il faut faire varier …
